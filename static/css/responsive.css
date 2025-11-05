@@ -1,0 +1,1259 @@
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+ @media (min-width: 1400px) and (max-width: 1800px) {
+	.bg_style .teesta_menu {
+		padding-right: 10px;
+	}
+	.txbdscontent p{
+		width: 43%;
+	}
+	.slider_thumb{
+		right: -150px;
+	}
+	.txbdsinner {
+		width: 97.29%;
+	}
+	.recent-post-text {
+		padding-left: 0;
+	}
+	section.shop_grid_area.sec_padding {
+		padding: 115px 30px 65px 30px;
+	}
+	.witr_shape_item_inner {
+		right: 185px;
+	}
+	.slider_thum {
+		top: 430px;
+		right: 250px;
+	}
+	.home2_slider .witr_shape_item_inner {
+		top: 195px;
+		right: -480px;
+	}
+	.home2_slider .slider_thum img {
+		width: 37%;
+	}
+	.home2_slider .witr_shape_item img {
+		max-width: 38%;
+	}
+	.home3_port .port_text {
+		margin-left: 215px;
+	}
+	
+
+}
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+ @media (min-width: 1200px) and (max-width: 1440px) {
+	.teesta_nav_area, .trp_nav_area, .transprent-menu .teesta_nav_area {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.txbdsinner {
+		width: 96.29%;
+	}
+	.teesta-header-top {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+	.slider_area {
+		height: 1000px;
+	}
+	.txbdslider .sttwo {
+		font-size: 50px;
+	}
+	.txbdscontent p{
+		width: 44%;
+	}
+	.teesta_menu>ul>li>a {
+		margin: 30px 17px 30px;
+		font-size:17px;
+	}
+	/* test css */
+	.alltesicl h2 {
+		font-size: 20px;
+	}
+	.all_pslides_color p {
+		padding: 0 0 10px 0;
+	}
+	.ps1 .witr_content_pslide_text {
+		left: 20px;
+		right: 20px;
+	}
+	.blog_left {
+		padding: 85px 62px 70px 30px;
+	}
+	.gallery-columns-3 .gallery-item {
+		max-width: 31.33%;
+	}
+	.coun_witr {
+		margin: 0 0 0 100px;
+	}
+	.witr_pslide4.ps3.ps1 .witr_content_pslide_text {
+		padding: 16px 15px 15px 15px;
+		left: 15px;
+		right: 15px;
+	}
+	/* about area css */
+	.tst_fea_area {
+		padding: 120px 15px 90px;
+	}
+	.tsimg-mr25 {
+		margin-right: 15px;
+	}
+	.tst_fea_area .txbdsvtitle {
+		font-size: 21px;
+	}
+	.wblogcontent h2 a {
+		font-size: 23px;
+	}
+	.ps1 .witr_content_pslide_text{
+		padding: 0 0 12px 0;
+	}
+	.cont_witr_con {
+		padding: 0 0 0 15px;
+	}
+	.witr_feed_news.all_feed_color {
+		padding-top: 15px;
+	}
+	
+	
+	
+	
+}
+/* ------------------------------------------------- Large Screen. 1025 ---------------------------------------------------*/
+ @media (min-width: 1025px) and (max-width: 1800px) {
+}
+/* ------------------------------------------------- Large Screen. 1024 ---------------------------------------------------*/
+ @media (min-width: 1024px) and (max-width: 1600px) {
+     .ebk_ser_area .txstcolor {
+		font-size: 23px;
+	}
+	
+	
+	.creative_header_address {
+		padding-left: 15px;
+	}
+	
+	
+	
+	
+	
+	
+}
+/* ------------------------------------------------- Laptop Screen 1366 ---------------------------------------------------*/
+ @media (min-width: 1170px) and (max-width: 1366px) {
+     .em_creative_header:after {
+         transform: rotate(-114deg);
+    }
+     .creative_header_address {
+         padding-left: 0;
+    }
+    /* banner area css */
+     .witr_banner_content p {
+         width: 70%;
+    }
+}
+/* ------------------------------------------------- Old Desktop :1365-1660 ---------------------------------------------------*/
+ @media (min-width: 1365px) and (max-width: 1660px) {
+    /* New Top Menu css */
+     .all_header_abs {
+        /* position: inherit;
+         */
+    }
+     #scrollUp {
+         right: 30px;
+    }
+    /* swiper slider */
+     .witr_swiper_area .text-right .witr_slider_thumb {
+         left: -95px !important;
+    }
+     .witr_swiper_height {
+         width: 100% !important;
+    }
+     .w_slider_3 .witr_swiper_height {
+         width: 100% !important;
+         transform: translateX(-50%) !important;
+         left: 15%;
+    }
+    /*======== slick slider ==========*/
+     .witr_ds_content {
+         height: 980px !important;
+    }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+ @media (min-width: 992px) and (max-width: 1364px) {
+     .play-overlay{
+         top: 50% !important;
+         left: 50% !important;
+    }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+ @media (min-width: 992px) and (max-width: 1199px) {
+	.teesta-header-top {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.ttbt h5 {
+		font-size: 90px;
+	}
+    .teesta_nav_area, .trp_nav_area, .transprent-menu .teesta_nav_area {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.teesta_menu>ul>li>a {
+		font-size: 16px;
+		margin: 30px 8px 30px;
+	}
+	.em_menu_login .dtbtn {
+		margin-left: 6px;
+	}
+	.mini_shop_content {
+		margin-left: 6px;
+	}
+	.em_menu_login .dtbtn {
+		padding: 9px 22px;
+	}
+	.dtbtn {
+		margin-left:18px;
+		padding: 12px 30px;
+	}
+	.em-quearys-top.msin-menu-search .em-quearys-menu i {
+		margin-left: 20px;
+	}
+	.ttin h2, .ttin h3 {
+		font-size: 34px !important;
+	}
+	.txbdscontent p{
+		width: 60%;
+	}
+	.swiper_left_cont {
+		margin: -12% 40% 0% 0%;
+	}
+	.witr_swiper_area .txbdsinner {
+		height: 750px;
+	}
+	.stthree {
+		margin: 0 0 0 25px;
+	}
+	.txbdscontent p {
+		width: 55%;
+	}
+	/* single blog */
+	.shortcode_content {
+		font-size: 35px;
+	}
+	.recent-post-text {
+		padding-left: 8px;
+	}
+	.recent-post-text h4 a {
+		font-size: 16px;
+	}
+	.recent-post-image img {
+		margin-top: 8px;
+	}
+	.recent-post-text span {
+		font-size: 15px;
+	}
+	.blog-left-side>div {
+		padding: 35px 15px 35px;
+	}
+	.recent-post-item {
+		padding-bottom: 0;
+	}
+	.wblogcontent {
+		width: 100%;
+		border-radius: 0;
+		margin-top: 0;
+	}
+	.gallery-columns-3 .gallery-item {
+		max-width: 31.24%;
+	}
+	/* slider area css */
+	.txbdsinner {
+		height: 710px;
+	}
+	.txbdscontent h1 span, .txbdscontent h2 span, .txbdscontent h3 span {
+		font-size: 60px;
+	}
+	.txbdsinner{
+		width: 90.29%;
+	}
+	.txbdsinner .txbdstitle{
+		font-size: 66px;
+	}
+	.witr_swiper_area .allcostyle .btnallt {
+		margin: 45px 0 0 0;
+	}
+	.ssttwo {
+		font-size: 65px;
+	}
+	.sttwo {
+		line-height: 40px;
+	}
+	.sstthree {
+		font-size: 65px;
+	}
+	.tts.text-center p {
+		width: 72%;
+	}
+	/* feature area css */
+	.tst_fea_area{
+		padding: 120px 0 90px;
+	}
+	.tst_fea_area .allcostyle{
+		padding: 40px 15px 55px 15px;
+	}
+	.tst_fea_area .txbdsvtitle{
+		font-size: 19px;
+	}
+	/* service area css */
+	.ser2_witr .stthree {
+		font-size: 17px !important;
+	}
+	.ser2_left_btm {
+		margin: -80px 30% 0% 0%;
+	}
+	.sp-txbdsvfdrl{
+		padding-left: 0;
+	}
+	.ser2_left_btm .txstcolor {
+		font-size: 20px;
+		margin: 12px 0 17px 0;
+	}
+	.pb_ser_area .txstcolor{
+		font-size: 21px;
+	}
+	.witr_txwidgetin h2 {
+		font-size: 26px;
+	}
+	.witr_txwidgetin h2 {
+		font-size: 26px;
+	}
+	/* contact area css */
+	.pb_cont_area {
+		margin: 0% 2% 0% 2%;
+		padding: 113px 30px 115px 30px;
+		margin-top: 100px;
+		margin-bottom: 110px;
+	}
+	.cont_witr_con {
+		padding: 0 0 0 30px;
+	}
+	/* about area css */
+	.ab_witr_con{
+		padding: 30px 0 0;
+	}
+	/* project area css */
+	.witr_content_area_c {
+		padding: 30px 60px 0 60px;
+	}
+	.tst_couses_area .btnallt {
+		padding: 40px 0 0 0;
+	}
+	.all_couses_color h2 a{
+		font-size: 50px;
+	}
+	.prot_content_inner h2 a {
+		font-size: 20px;
+	}
+	.porttitle_inner4 h2 a {
+		font-size: 20px;
+	}
+	.teesta-single-icon a{
+		margin: 0 5px 0 0;
+	}
+	.teesta-blog-social {
+		margin-bottom: 0px;
+		margin-top: 10px;
+	}
+	.ps1 .witr_content_pslide_text{
+		padding: 0 0 12px 0;
+	}
+	.p2clmn .single_protfolio:hover .prot_content_inner {
+		left: 60%;
+	}
+	.single_protfolio {
+		margin-bottom: 20px;
+	}
+	/* test area css */
+	.alltesicl p {
+		font-size: 17px;
+	}
+	.terevtx{
+		margin-left: 10px;
+	}
+	h2.tstitle {
+		font-size: 19px;
+	}
+	.client_witr {
+		padding: 15px 20px 25px;
+	}
+	.tsimg-mr25 {
+		margin-right: 15px;
+	}
+	/* faq area css */
+	.faq_witr {
+		padding: 50px 30px 30px 15px;
+	}
+	/* counter css */
+	.witr_counter_single {
+		padding: 40px 20px 30px 20px;
+	}
+	/* blog area css */
+	.tst_blog_area .allcostyle h2 a {
+		font-size: 24px;
+	}
+	/* marquee area css */
+	.txmartex, .txmartex a {
+		font-size: 140px;
+	}
+	/* pricing area css */
+	.tprtit{
+		font-size: 20px;
+		margin: 0 0 0 160px;
+	}
+	.tst_pric_area .btnallt {
+		font-size: 18px;
+		padding: 10px 75px 10px 75px;
+	}
+	
+
+}
+/* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+ @media (min-width: 768px) and (max-width: 991px) {
+	.mobile_logo_area {
+		padding: 20px 0;
+	}
+	.ssttwo {
+		font-size: 40px;
+	}
+	.sstthree {
+		font-size: 40px;
+	}
+	.txbdsinner p {
+		width: 100%;
+		font-size: 17px;
+	}
+	.txbdsinner {
+		height: 550px;
+	}
+	.ttin h2 {
+		font-size: 28px !important;
+	}
+	.ttin h3 {
+		font-size:28px !important;
+	}
+	.top-address p span, .top-address p a {
+		margin-right: 5px;
+		font-size: 14px;
+	}
+	.top-address.em-login.text-right.text_s_center.text_m_center {
+		text-align: center;
+	}
+	.breadcumb-area, .breadcumb-blog-area {
+		padding-top: 65px;
+		padding-bottom: 65px;
+	}
+	.brpt.brptsize h2.brcrumb_title {
+		font-size: 55px;
+	}
+	.creative_header_address {
+		padding-left: 0;
+	}
+	.creative_header_button {
+		padding-left: 0;
+	}
+	.dtbtn{
+		font-size: 15px;
+		padding: 14.5px 29px;
+	}
+	.brpt.brptsize .brcrumb_title {
+		font-size: 35px;
+	}
+	/* slider css */
+	.allleft .txbdstitle {
+		width: 100%;
+	}
+	.txbdsinner {
+		width: 88.29%;
+	}
+	.txbdsinner .txbdstitle {
+		font-size: 60px;
+	}
+	.witr_swiper_area .allcostyle .btnallt {
+		margin: 40px 0 0 0;
+	}
+	/* test area css */
+	.tst_fea_area {
+		padding: 120px 10px 90px;
+	}
+	/* about area css */
+	.ab_witr_con {
+		padding: 0;
+	}
+	/* service area css */
+	.tst_ser_area .ttin p {
+		font-size: 14px;
+	}
+	.all_feed_color h2, .all_feed_color h2 a {
+		font-size: 22px;
+	}
+	/* brand area css */
+	.txbdicarosel.allcostyle {
+		margin-left: 0;
+	}
+	/* faq area css */
+	.accordion_area .card-2 p {
+		padding: 15px 0px 0 0;
+	}
+	.witr_ac_style{
+		font-size: 18px;
+	}
+	/* service area css */
+	.tts.text-center p {
+		width: 86%;
+	}
+	/* contact area css */
+	.cont_witr_con {
+		padding: 0;
+	}
+	.apartment_text h4 {
+		font-size: 22px;
+	}
+	.tst_faq_area .tts {
+		margin-bottom: 30px;
+	}
+	/* blog area css */
+	.wblogcontent {
+		padding: 42px 20px 20px 30px;
+		width: 100%;
+		margin-top: 0;
+		border-radius: 0;
+	}
+	.tst_blog_area .allcostyle h2 a {
+		font-size: 25px;
+	}
+	.metashowcp {
+		overflow: inherit;
+		padding-left: 0;
+		width: 100%;
+	}
+	.witr_carousel_main > div:nth-child(even) .metashowcp {
+		padding-right: 0;
+		padding-left: 0px;
+	}
+	.wblogpart {
+		display: inherit;
+	}
+	.wblogthumb {
+		width: 100%;
+	}
+	.all_pslides_color p {
+		font-size: 20px;
+	}
+	.blog_left {
+		padding: 85px 40px 70px 30px;
+		margin: 0 0 50px 0;
+	}
+	.blog_witr {
+		padding-left: 15px;
+	}
+	.blog-left-side>div {
+		padding: 15px 15px 35px;
+	}
+	.recent-post-text {
+		padding-left: 0;
+	}
+	.recent-post-text h4 a {
+		font-size: 15px;
+	}
+	.teesta-single-icon-inner a{
+		margin: 0 7px 0 0;
+	}
+	.social-icons{
+		margin-bottom: 30px;
+	}
+	/* counter area css */
+	.witr_counter_single {
+		padding: 25px 45px 20px 45px;
+		text-align: center;
+	}
+	/* call area css */
+	.txbdsvflex {
+		display: inherit;
+	}
+	/* portfolio area css */
+	.witr_content_area_c {
+		padding: 10px 30px 20px 30px;
+	}
+	.all_couses_color h2 a {
+		font-size: 30px;
+	}
+	.caus_ttitle, .caus_mtitle {
+		margin-bottom: 0;
+	}
+	.caus_s2{
+		margin: 11px 0 4px;
+	}
+	.tst_couses_area .btnallt {
+		padding: 25px 0 0 0;
+	}
+	.positi_3.pprotfolio4 {
+		padding: 8px 10px 10px;
+	}
+	.port_area .ttin p {
+		width: 85%;
+	}
+	.witr_pslide4.ps3.ps1 .witr_content_pslide_text {
+		padding: 16px 10px 15px 10px;
+		left: 10px;
+		right: 10px;
+	}
+	.pb_proj_area {
+		margin: -110px 0% 0% 0%;
+		padding: 120px 25px 174px 20px;
+	}
+	.ps1 .witr_content_pslide_text {
+		padding: 0 0 12px 0;
+	}
+	.p2clmn .single_protfolio:hover .prot_content_inner {
+		left: 60%;
+	}
+	.single_protfolio {
+		margin-bottom: 20px;
+	}
+	/* marquee area css */
+	.txmartex, .txmartex a {
+		font-size: 100px;
+	}
+	/* single ser css */
+	.witr_txwidgetin h2 {
+		font-size: 20px;
+	}
+	.sing_ser_witr {
+		margin-right: -26px;
+		margin-left: -10px;
+	}
+	/* test area css */
+	.test_inner {
+		padding: 30px 0 40px 30px;
+	}
+	.test_inner .ttin p {
+		width: 100%;
+	}	
+	.witr_youtube_video {
+		top: 0;
+	}
+	/* video area css */
+	.witr_all_color_v h2 {
+		font-size: 19px;
+	}
+	.footer-middle .mc4wp-form-fields {
+		margin-right: 0;
+	}
+	/* pricing area css */
+	.tprtit{
+		font-size: 18px;
+	}
+	.witri_texti_list ul li {
+		margin: 0 15px 10px 15px;
+	}
+	.tst_pric_area .btnallt {
+		padding: 10px 90px 10px 90px;
+	}
+
+	
+}
+/* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+ @media (max-width: 767px) {
+	.teesta_nav_area.prefix, .hbg2 {
+		display: none;
+	}
+	ol {
+		padding-left: 10px;
+	}	
+	.teesta_header_top_two.top_cr_style1.top_crt_style {
+		display: none;
+	}
+	.mobile_logo_area {
+		padding: 10px 0;
+	}
+	.all_header_abs {
+		position: inherit;
+	}
+	.top-address{
+		text-align: center;
+	}
+	.creative_header_button {
+		padding-left: 0;
+		text-align: center;
+	}
+	.single_header_address {
+		margin-bottom:10px;
+	}
+	.teesta-header-top .d-flex {
+		justify-content: center !important;
+	}
+	.top-welcomet p span, .top-welcomet p a, .top-welcome p span, .top-welcome p a, .top-welcome p, .top-address p a, .top-right-menu .social-icons li a, .top-address p span, .ossos .em-quearys-menu i {
+		font-size: 14px;
+	}
+	.breadcumb-area, .breadcumb-blog-area {
+		padding-top: 65px;
+		padding-bottom: 65px;
+	}
+	.teesta-header-top .d-flex {
+		display: inherit!important;
+	}
+	.top-right-menu .social-icons {
+		justify-content:center;
+	}
+	.teesta-header-top {
+		padding-right: 0;
+		padding-left: 0;
+		text-align: center;
+	}
+	.brpt.brptsize .brcrumb_title{
+		font-size: 30px;
+	}
+	/* slider area css */
+	.txbdsinner .txbdstitle {
+		font-size: 28px;
+	}
+	.slider_thumb .single_image img {
+		width: 90.5%;
+	}
+	.txbdsinner.allleft {
+		justify-content: center;
+	}
+	.witr_swiper_area .allcostyle .btnallt{
+		margin: 50px 0 0 0;
+	}
+	.tst_fea_area {
+		padding: 110px 0 90px;
+	}
+	/* single blog */
+	.teesta-single-blog-details-inner {
+		padding: 38px 25px 45px;
+	}
+	.block .wp-block-quote.is-large p, .block .wp-block-quote.is-style-large p {
+		font-size: 18px;
+	}
+	.blog-left-side>div {
+		padding: 30px 15px 30px;
+	}
+	.single-widget-item {
+		padding: 35px 0 0 15px;
+	}
+    /* footer bar */
+	.teesta-single-icon a {
+		margin: 0 4px 0 0;
+	}
+     .footer-top-inner p {
+         width: 100%;
+    }
+     .footer-menu ul {
+         margin: 10px 0 0;
+         text-align: center !important;
+    }
+     .footer-menu ul li a {
+         font-size: 14px;
+    }
+     .copy-right-text p {
+         text-align: center;
+    }
+     .footer-bottom:before {
+         width: 100%;
+    }
+     .breadcumb-blog-area {
+         padding: 50px 0;
+    }
+    /* blog css */
+     .em-blog-content-area {
+         padding: 20px 10px 5px;
+    }
+     .teesta-blog-meta-left a, .teesta-blog-meta-left span {
+         font-size: 14px;
+         margin-right: 3px;
+    }
+     .teesta-blog-meta-right a, .teesta-blog-meta-right span {
+         font-size: 11px;
+         margin-left: 3px;
+    }
+     .witr_ablog_content h2 a{
+         font-size: 18px;
+    }
+	.recent-post-text {
+		padding-left: 0;
+	}
+    /* single blog */
+	.teesta-single-blog-details-inner {
+		padding: 38px 30px 45px;
+	}
+	.teesta-single-icon-inner a {
+		margin-bottom: 5px;
+	}
+	.post_reply ul, .blog-content ul, .single-blog-content ul {
+         padding-left: 20px;
+    }
+     .post_reply ol, .blog-content ol, .single-blog-content ol {
+         padding-left: 20px;
+    }
+     .comments-area .children {
+         margin-left: 10px;
+    }
+     .comment_field .input-field {
+         width: 100%;
+    }
+     .pdsr {
+         padding-top: 50px;
+    }
+     #wp-calendar {
+         display: block;
+    }
+    /* footer css */
+	.teesta_theme_widget p {
+		padding-right: 0;
+	}
+	.teesta_f_color.teesta_theme_widget > div {
+		text-align: center;
+	}
+	.ft_tpmrb.tts.text-left {
+		text-align: center;
+	}
+	.fot_inner .tts {
+		text-align: center;
+	}
+     .copy-right-text p {
+         font-size: 11px;
+    }
+     .footer-social-icon a i {
+         font-size: 16px;
+         height: 35px;
+         line-height: 35px;
+         width: 35px;
+    }
+    /* footer css */
+     .copy-right-text p {
+         font-size: 15px;
+    }
+     .teesta-blog-thumb img {
+         width: 100%;
+    }
+	/* menu list css */
+	.menu_list_inner {
+	 display: inherit;
+	}
+     .mobil-item {
+         margin-top: 30px;
+    }
+	.ttin p {
+		width:99% !important;
+	}
+	/* slider area css */
+	.sstone {
+		font-size: 20px;
+	}
+	.ssttwo {
+		font-size: 28px;
+	}
+	.sstthree {
+		font-size: 28px;
+	}
+	.txbdsbtn .btnall {
+		margin-right:0;
+		margin-top: 20px;
+	}
+	.txbdscontent h1 span, .txbdscontent h2 span, .txbdscontent h3 span {
+		font-size: 30px;
+	}
+	.slider_area .witr_btn_sinner {
+		text-align: center;
+	}
+	.txbdscontent h2 {
+		margin-bottom: 0;
+	}
+	.txbdsinner {
+		width: 95%;
+		height: 400px;
+	}
+	.txbdsinner.allleft {
+		text-align: center;
+	}
+	.txbdslider .allcostyle {
+		margin: 0;
+		padding: 0;
+		margin-bottom: 0;
+	}
+	.txbdsinner p {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.stthree {
+		margin: 0;
+	}
+	.ttin .txbdstitle {
+		font-size: 21px;
+	}
+	.ttbt h5 {
+		font-size: 60px;
+	}
+	.sttwo {
+		line-height: 30px;
+	}
+	.allleft .txbdstitle {
+		width: 100%;
+	}
+	/* about area css */
+	.tst_about_area {
+		padding: 120px 0 120px;
+	}
+	.ab_left_inn img {
+		margin-bottom: 20px;
+	}
+	.ab_witr_con {
+		padding: 0 0 0;
+	}
+	.ab_witr_con .btnallt {
+		margin: 40px 0 0 0;
+	}
+	/* service area css */
+	.ser_con_innr .tts {
+		margin-bottom: 25px;
+	}
+	.all_feed_color h2, .all_feed_color h2 a {
+		font-size: 20px;
+	}
+	.news_feed_title {
+		margin-left: 0;
+	}
+	/* contact area css */
+	ul.icon-list-items.inline-items li {
+		width: 100%;
+		float: inherit;
+	}
+	.ttin.con_left_topt h2 {
+		font-size: 25px;
+	}
+	.map_inner_area iframe {
+		height: 440px;
+	}
+	.apartment_text h4 {
+		font-size: 25px;
+	}
+	/* portfolio css */
+	.positi_3.pprotfolio4 {
+		padding: 8px 10px 10px;
+	}
+	.witr_content_pslide_text h2 {
+		margin: 0 0 10px;
+	}
+	.ps1 .witr_content_pslide_text {
+		bottom: -150px;
+	}
+	.all_pslides_color p {
+		padding: 0 0 10px 0;
+	}
+	.title_in_area {
+		display: inherit;
+	}
+	.prot_content_inner h2 a {
+		font-size: 20px;
+	}
+	.em_plus_port {
+		bottom: 5px;
+		right: 10px;
+	}
+	.witr_pslide4.ps3.ps1 .witr_single_pslide .witr_content_pslide_text {
+		display: inherit;
+	}
+	.portfolio_nav {
+		text-align: center;
+	}
+	.ps1 .witr_content_pslide_text {
+		padding: 0 0 12px 0;
+	}
+	.single_protfolio {
+		margin-bottom: 20px;
+	}
+	.teesta-blog-area.teesta-blog-single.single-blog-details img {
+		margin-bottom: 20px;
+	}
+	/* testimonial area css */
+	.tstitle {
+		font-size: 20px;
+	}
+	/* marquee area css */
+	.txmartex, .txmartex a {
+		font-size: 70px;
+	}
+	/* pricing plan area css */
+	.witri_texti_list ul li {
+		margin: 0 15px 10px 15px;
+	}
+	.tst_pric_area .btnallt {
+		padding: 10px 70px 10px 70px;
+	}
+	.tprtit {
+		font-size: 16px;
+		margin: 0 0 0 160px;
+	}
+	/* footer area css */
+	.footer_s_inner {
+		display: inherit;
+	}
+	.footer-middle .mc4wp-form-fields {
+		margin-right: 0;
+	}
+	.teesta-description-area p, .teesta-description-area a, .social-icons {
+		margin-bottom: 20px;
+	}
+	.foter_top_inn .allcostyle {
+		padding: 0 0 20px 0;
+	}
+	.foter_top_inn .txbdsvflex {
+		display: inherit;
+		text-align: center;
+	}
+	.foter_top_inn .iconalltf i {
+		margin-bottom: 10px;
+	}
+	.witr_siconw {
+		text-align: center;
+	}
+	.teesta-description-area {
+		text-align: center;
+	}
+	.widget_text h2{
+		text-align:center;
+	}
+	.teesta_theme_widget .widget h2 {
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
+	.recent-post-item {
+		display: inherit;
+	}
+	.widget_recent_data .recent-post-image img {
+		margin-bottom: 10px;
+	}
+	/* video area css */
+	.video-item {
+		display: inherit;
+	}
+	/* counter area css */
+	.all_counter_color h2, .all_counter_color h1 {
+		font-size: 19px;
+	}
+	.witr_contx .counter, .witr_contx span {
+		font-size: 35px;
+	}
+	.witr_counter_single {
+		text-align: center;
+	}
+	.cont_witr{
+		margin-left: -13px;
+		margin-right: -13px;
+	}
+	/* area css */
+	.witr_shor_posi {
+		bottom: 0;
+	}
+	.witr_shortcode_inner {
+		padding: 42px 15px 50px;
+		margin-bottom: 100px;
+	}
+	.shortcode_content {
+		font-size: 24px;
+	}
+	.mc4wp-form-fields input {
+		width: 100%;
+		padding: 15px 20px;
+	}
+	/* blog area css */
+	.wblogcontent {
+		padding: 25px 20px 20px 20px;
+		width: 100%;
+	}
+	.tst_blog_area .allcostyle h2 a {
+		font-size: 22px;
+	}
+	.wblogcontent h2 a{
+		font-size: 19px;
+	}
+	.wblogpart {
+		display: inherit;
+	}
+	.wblogthumb{
+		width: 100%;
+	}
+	.metashowcp{
+		padding: 15px 15px 24px;
+		padding-left: 5px;
+		width: 100%;
+	}
+	.witr_carousel_main > div:nth-child(even) .metashowcp {
+		padding-right:0;
+		padding-left:0;
+	}
+	/* project area css */
+	.witr_content_area_c {
+		padding: 30px 20px 40px 20px;
+	}
+	.all_couses_color h2 a{
+		font-size: 26px;
+	}
+	/* couses area css */
+	.witr_couses {
+		display: inherit;
+	}
+	.caus_s2 {
+		margin: 0;
+	}
+	.tst_couses_area .btnallt {
+		padding: 30px 0 0 0;
+	}
+	/* contact area css */
+	.cont_witr_con {
+		padding: 50px 0 0 0;
+	}
+	/* faq area css */
+	.witr_ac_style {
+		font-size: 16px;
+	}
+	/* service area css */
+	.ser2_left_btm {
+		margin: -80px 11% 0% 0%;
+	}
+	.ser2_left_btm .txstcolor {
+		font-size: 16px;
+		margin: 20px 0 16px 0;
+	}
+	.witr_txwidgetin h2{
+		font-size: 20px;
+	}
+	.sp-txbdsvfdrl {
+		padding-left: 0;
+	}
+	.ser2_witr {
+		margin-top: 30px;
+	}
+	.ser2_witr .stthree {
+		font-size: 17px;
+	}
+	
+}
+/* ------------------------------------------------- Large Mobile :480px. ---------------------------------------------------*/
+ @media only screen and (min-width: 480px) and (max-width: 767px) {
+     .em-slider-button {
+         display: block;
+    }
+     .em-nivo-slider-wrapper .nivo-directionNav {
+         display: block;
+    }
+     .em-button-button-area a {
+         margin-right: 5px;
+         margin-top: 15px;
+         padding: 3px 20px;
+         font-size: 12px;
+    }
+	.slider_btn .witr_btn.active {
+		margin-left: 15px;
+	}
+	.slider_thumb .single_image img {
+		width: 68.5%;
+	}
+    /* blog css */
+     .blog-part {
+         text-align: center;
+    }
+    /* Screenshots css */
+     .dnSlide-main.done {
+         transform: scale(0.7);
+         margin-left: -196px;
+    }
+     .Screenshots-fearm img {
+         width: 256% !important;
+         max-width: 256% !important;
+         left: -98px;
+         top: 49px;
+    }
+    .teesta-header-top {
+		display: block;
+		text-align: center;
+	}
+	.top-right-menu {
+		text-align: center;
+	}
+	.cal_list_inn{
+		display: flex;
+	}
+	.all_list_color ul li {
+		margin-right: 10px;
+	}
+	.all_list_color ul li a, .all_list_color ul li span {
+		font-size: 16px;
+	}
+
+
+
+}
+/* menu and logo show & hide */
+ @media (min-width: 10px) and (max-width: 991px){
+     .mobile-menu{
+         display:block !important;
+    }
+    .mobile_logo_area {
+		display: block !important;
+		position: relative;
+		z-index: 999;
+	}
+     .teesta-main-menu{
+         display:none !important;
+    }
+     .em-feature {
+         margin-bottom: 20px;
+    }
+     .single_counter {
+         margin-bottom: 20px;
+    }
+}
+ @media (min-width: 10px) and (max-width: 991px){
+     .text_m_right{
+         text-align:right !important;
+    }
+     .text_m_left{
+         text-align:right !important;
+    }
+     .menu_18.top-address p span {
+         font-size: 13px;
+    }
+     .footer-top-inner p {
+         width: 85%;
+    }
+     .witr_joined .witr_con_btn2 .w_btn2 {
+         position: inherit;
+         width: 100%;
+    }
+}
+
+ @media (min-width: 570px) and (max-width: 767px){
+     .text_s_center{
+         text-align:center !important;
+    }
+     .text_s_right{
+         text-align:right !important;
+    }
+     .text_s_left{
+         text-align:right !important;
+    }
+     .footer-top-inner p {
+         width: 95%;
+    }
+}
+ @media (min-width: 10px) and (max-width: 570px){
+
+ 
+ 
+}
+ 
+ 
+ 
